@@ -1,4 +1,4 @@
-An easy way for generating reports in gradle. Can be used in projects where the reports are not more than 2 html pages.
+An easy way for generating reports in gradle. Can be used in projects where the reports are not more than 2 html pages. Works only for a single junit xml file
 
 To generate the report :
 
