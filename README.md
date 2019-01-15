@@ -4,4 +4,4 @@ To generate the report :
 
 ```gradle clean resultGenerator```
 
-An example of the result generated can be viewed here.
+An example of the result generated can be viewed [here](https://storage.googleapis.com/gradlereporterdemo/build/index.html).
